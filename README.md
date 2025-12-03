@@ -1,4 +1,4 @@
-Blessingswi Rainfall Trend Analysis (2000–2024)
+Malawi Rainfall Trend Analysis (2000–2024)
 
 This project analyzes long-term rainfall variability across Malawi using CHIRPS satellite rainfall 
 data covering the period 2000–2024. Using Python, geospatial processing, and pixel-wise linear 
@@ -141,4 +141,5 @@ Full trend map uploaded-----
 ## Author  
 **Madalitso Master**  
 Environmental Data Analyst 
+
 Email: mastetblessings.com
