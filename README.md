@@ -11,9 +11,10 @@ This work demonstrates advanced competency in:
 - GIS and remote sensing workflows  
 - Climate risk interpretation for development and humanitarian actors  
 
-**Author: Blessings Master  
-Environmental Data Analyst | GIS & Climate Modelling Specialist**
+**Author: Madalitso Master  
+Environmental Data Analyst**
 
+Email: mastetblessings@gmail.com
 ---
 
 ## Why This Analysis Matters
@@ -137,9 +138,3 @@ Full trend map uploaded-----
 ### Tools Used:
 - Python: rasterio, numpy, matplotlib, geopandas, scipy  
 - GIS: Clipping, raster alignment, spatial trend analysis  
-
-## Author  
-**Madalitso Master**  
-Environmental Data Analyst 
-
-Email: mastetblessings.com
